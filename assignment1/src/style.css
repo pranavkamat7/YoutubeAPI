@@ -1,0 +1,20 @@
+
+.mid{
+    display: flex;
+    background-color: aquamarine;
+    padding-top: 5%;
+    justify-content: center;
+
+}
+.search{
+padding-bottom: 2%;
+}
+
+#button{
+color: aliceblue;
+    background-color: rgb(9, 9, 51);
+}
+.content{
+    display: flex;
+    padding: 25px;
+}
